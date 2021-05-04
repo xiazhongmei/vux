@@ -116,7 +116,7 @@
 npm install vue-cli -g
 vue init airyland/vux2 projectPath
 
-cd projectPath
+cd p
 npm install // or yarn
 npm run dev // or yarn dev
 ```
@@ -129,7 +129,7 @@ npm run dev // or yarn dev
   <span>Scan with Wechat</span>
 </p>
 
-## Maintainers
+## Maintainersn
 
 + [airyland](https://github.com/airyland)
 + [lichunqiang](https://github.com/lichunqiang)
